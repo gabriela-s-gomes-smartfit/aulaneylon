@@ -10,8 +10,8 @@ class CelsiusConverter
 end
 
 conversor = CelsiusConverter.new
-puts "\n______Conversor______Celsius____To___F___And___K\n"
-puts "\n Olá! Esse script converte Celsius para Fahrenheit ou Kelvin. Qual você deseja ver?\n"
+puts "\n______Conversor______Celsius____To___F___And___K"
+puts "\n Olá! Esse script converte Celsius para Fahrenheit ou Kelvin. Qual você deseja ver?"
 puts "1. Quero converter Celsius para Fahrenheit"
 puts "2. Quero converter Celsius para Kelvin"
 puts "3. Não quero converter nada"
